@@ -135,7 +135,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-railway/
 
 # Spyder project settings
 .spyderproject
